@@ -12,3 +12,7 @@ html.dark {
 .borderBlack {
 	@apply border border-black/10;
 }
+.font-poppins {
+	font-family: 'Poppins', sans-serif;
+  }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Playfair+Display:wght@700&display=swap');

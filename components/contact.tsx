@@ -21,8 +21,8 @@ export default function Contact() {
 			whileInView={{ opacity: 1 }}
 			transition={{ duration: 1 }}
 			viewport={{ once: true }}>
-			<SectionHeading color="text-blue-500" align="left">
-	Contact Me
+		<SectionHeading color="text-blue-500 dark:text-blue-300" align="left">
+Contact
 </SectionHeading>
 			<p className="text-gray-700 -mt-6 dark:text-white/80">
 				Please contact me directly at{" "}

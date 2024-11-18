@@ -16,8 +16,8 @@ export default function About() {
 			animate={{ opacity: 1, y: 0 }}
 			transition={{ delay: 0.175 }}
 			id="about">
-<SectionHeading color="text-blue-500" align="left">
-About Me
+<SectionHeading color="text-blue-500 dark:text-blue-300" align="left">
+  About Me
 </SectionHeading>			<p className="mb-3">
 				{" "}
 				Experienced Software Engineer{" "}

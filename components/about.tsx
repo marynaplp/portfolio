@@ -23,8 +23,8 @@ export default function About() {
 				Experienced Software Engineer{" "}
 				<span className="font-medium"></span>, with a strong background in front-end and full-stack development 
 				across diverse industries. I specialize in modern <span className="font-medium">web technologies and Agile methodologies,
-				 with expertise in TypeScript, JavaScript, and Python </span>.{" "}. My technical proficiency spans <span className="font-medium">front-end and back-end frameworks,
-				 including React, Vue, NEXT.js, and GraphQL.</span> {" "}
+				 with expertise in React, JavaScript and Node.js</span>.{" "}. My technical proficiency spans <span className="font-medium">front-end and back-end frameworks,
+				 including Vue, NEXT.js, and GraphQL.</span> {" "}
 			</p>
 			<p>
   <span className="italic">When I'm not coding</span>, I'm passionate about embroidery. I also enjoy{" "}

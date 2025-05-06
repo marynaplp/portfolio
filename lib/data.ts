@@ -38,28 +38,11 @@ export const links = [
 
 export const experiencesData = [
 	{
-		title: "Frontend Developer",
-		location: "Softemy",
-		description: "Developed a completely new page for fitness application using React, Next.js, and GraphQL, resulting in a 25% faster load time compared to the previous version.",
-		icon: React.createElement(LuGraduationCap),
-		date: "2018-2021",
-	},
-	{
-		title: "Software Developer",
-		location: "Toronto, ON",
-		description:
-			"Built a new payments page using React, Next.js, and GraphQL, reducing load times by 30%. Developed responsive, accessible web applications using Figma, HTML, CSS, JavaScript, and frameworks like Vue, increasing conversion rates by 26%.",
-			
-		icon: React.createElement(CgWorkAlt),
-		date: "2019 - 2023",
-	},
-	{
-		title: "Software Developer",
+		title: "Software Engineer, contractor/consultant",
 		location: "Vancouver, BC",
-		description:
-			"Designed and developed a security system for a hospital locker containing dangerous medications, requiring employee fingerprint authentication. I built the system to handle card insertion, fingerprint scanning, and synchronization with the fingerprint scanning equipment. and conducting thorough testing to ensure stability. Utilized Material UI to enhance the interface, improving operational efficiency by 20% and user experience.",
-		icon: React.createElement(CgWorkAlt),
-		date: "2022-2023",
+		description:"Developed new features with React and Next.js that boosted SEO and increased sales by 7%. Enhanced the mobile version, improving load speed by 23%, and built and deployed the application using a CI/CD pipeline",
+		icon: React.createElement(FaReact),
+		date: "March 2024- Present",
 	},
 	{
 		title: "BrainStation Full-Stack Web Development Bootcamp",
@@ -69,14 +52,35 @@ export const experiencesData = [
 		icon: React.createElement(FaReact),
 		date: "2023",
 	},
-
 	{
-		title: "Software Engineer, contractor/consultant",
-		location: "Vancouver, BC",
-		description:"Developed new features with React and Next.js that boosted SEO and increased sales by 7%. Enhanced the mobile version, improving load speed by 23%, and built and deployed the application using a CI/CD pipeline",
-		icon: React.createElement(FaReact),
-		date: "2024",
+		title: "Software Developer",
+		location: "E’Mind Tek Inc.",
+		description:
+			"Designed and developed a security system for a hospital locker containing dangerous medications, requiring employee fingerprint authentication. I built the system to handle card insertion, fingerprint scanning, and synchronization with the fingerprint scanning equipment. and conducting thorough testing to ensure stability. Utilized Material UI to enhance the interface, improving operational efficiency by 20% and user experience.",
+		icon: React.createElement(CgWorkAlt),
+		date: "2022-2023",
 	},
+	
+	{
+		title: "Software Developer",
+		location: "PayProGlobal (e-commerce)",
+		description:
+			"Built a new payments page using React, Next.js, and GraphQL, reducing load times by 30%. Developed responsive, accessible web applications using Figma, HTML, CSS, JavaScript, and frameworks like Vue, increasing conversion rates by 26%.",
+			
+		icon: React.createElement(CgWorkAlt),
+		date: "2019 - 2023",
+	},
+	{
+		title: "Frontend Developer",
+		location: "Softemy",
+		description: "Developed a completely new page for fitness application using React, Next.js, and GraphQL, resulting in a 25% faster load time compared to the previous version.",
+		icon: React.createElement(LuGraduationCap),
+		date: "2018-2021",
+	},
+	
+	
+
+	
 	
 ] as const;
 

@@ -50,7 +50,7 @@ export const experiencesData = [
 		description:
 			"I completed BrainStation's Web Development Bootcamp, an immersive program designed to equip participants with the latest skills in web design and development. This intensive training honed my abilities in front-end and back-end technologies, enabling me to build responsive, user-centered websites and applications. The curriculum's hands-on approach, focused on real-world projects, has prepared me to tackle diverse web development challenges effectively.",
 		icon: React.createElement(FaReact),
-		date: "2023",
+		date: "Dec 2023 - March 2024",
 	},
 	{
 		title: "Software Developer",
@@ -58,7 +58,7 @@ export const experiencesData = [
 		description:
 			"Designed and developed a security system for a hospital locker containing dangerous medications, requiring employee fingerprint authentication. I built the system to handle card insertion, fingerprint scanning, and synchronization with the fingerprint scanning equipment. and conducting thorough testing to ensure stability. Utilized Material UI to enhance the interface, improving operational efficiency by 20% and user experience.",
 		icon: React.createElement(CgWorkAlt),
-		date: "2022-2023",
+		date: "Nov 2022- Dec 2023",
 	},
 	
 	{
@@ -68,14 +68,14 @@ export const experiencesData = [
 			"Built a new payments page using React, Next.js, and GraphQL, reducing load times by 30%. Developed responsive, accessible web applications using Figma, HTML, CSS, JavaScript, and frameworks like Vue, increasing conversion rates by 26%.",
 			
 		icon: React.createElement(CgWorkAlt),
-		date: "2019 - 2023",
+		date: "Dec 2021 - Feb 2023",
 	},
 	{
 		title: "Frontend Developer",
 		location: "Softemy",
 		description: "Developed a completely new page for fitness application using React, Next.js, and GraphQL, resulting in a 25% faster load time compared to the previous version.",
 		icon: React.createElement(LuGraduationCap),
-		date: "2018-2021",
+		date: "March 2018- Dec 2021",
 	},
 	
 	

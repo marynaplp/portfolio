@@ -7,8 +7,6 @@ import allouteImg from "@/public/alloute.png";
 
 import cusImg from "@/public/CUS.png"
 
-
-import cusImg from "@/public/CUS.png";
 import cryptoImg from "@/public/cryptodash.png"
 
 export const links = [

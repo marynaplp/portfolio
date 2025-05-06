@@ -4,13 +4,13 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/instock.png";
 import allouteImg from "@/public/alloute.png";
-<<<<<<< HEAD
+
 import cusImg from "@/public/CUS.png"
 
-=======
+
 import cusImg from "@/public/CUS.png";
 import cryptoImg from "@/public/cryptodash.png"
->>>>>>> 2a9f97a (Upadate the data file)
+
 export const links = [
 	{
 		name: "Home",
@@ -126,9 +126,7 @@ export const projectsData = [
 		],
 		imageUrl: allouteImg,
 	},
-<<<<<<< HEAD
-	
-=======
+
 	{
         title: "CryptoDash",
         description:
@@ -145,7 +143,7 @@ export const projectsData = [
         ],
         imageUrl: cryptoImg,
     },	
->>>>>>> 2a9f97a (Upadate the data file)
+
 
 ] as const;
 
